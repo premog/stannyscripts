@@ -1,0 +1,1 @@
+<a href="https://rscripts.net/user/stannyscripts" target="_blank"><img alt="stannyscripts on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/stannyscripts?theme=dark" /></a>
