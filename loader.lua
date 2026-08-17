@@ -8,6 +8,7 @@ local games = {
     [1039703573]    = 'drift-tag.lua',
     [35641792]    = 'speed-boat-tsunami.lua',
     [1110056661]    = 'unbox-asmr.lua',
+    [35735318]    = 'keep-the-door-locked.lua',
 }   
 
 local file = games[game.CreatorId]
